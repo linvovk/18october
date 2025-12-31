@@ -1,0 +1,123 @@
+# Файл с курсами валют
+# Автор: Красавина Анна Геннадьевна
+
+rate:
+  - currency: "USD"
+    buy_price: 85.45
+    sell_price: 86.20
+    date: "2024-01-15"
+    bank_commission_percent: 1.5
+
+  - currency: "CNY"
+    buy_price: 11.85
+    sell_price: 12.10
+    date: "2024-01-15"
+    bank_commission_percent: 1.8
+
+  - currency: "USD"
+    buy_price: 85.60
+    sell_price: 86.35
+    date: "2024-01-14"
+    bank_commission_percent: 1.5
+
+  - currency: "CNY"
+    buy_price: 11.90
+    sell_price: 12.15
+    date: "2024-01-14"
+    bank_commission_percent: 1.8
+
+  - currency: "USD"
+    buy_price: 85.30
+    sell_price: 86.05
+    date: "2024-01-13"
+    bank_commission_percent: 1.5
+
+  - currency: "CNY"
+    buy_price: 11.80
+    sell_price: 12.05
+    date: "2024-01-13"
+    bank_commission_percent: 1.8
+
+  - currency: "USD"
+    buy_price: 85.75
+    sell_price: 86.50
+    date: "2024-01-12"
+    bank_commission_percent: 1.5
+
+  - currency: "CNY"
+    buy_price: 11.95
+    sell_price: 12.20
+    date: "2024-01-12"
+    bank_commission_percent: 1.8
+
+  - currency: "USD"
+    buy_price: 85.20
+    sell_price: 85.95
+    date: "2024-01-11"
+    bank_commission_percent: 1.5
+
+  - currency: "CNY"
+    buy_price: 11.75
+    sell_price: 12.00
+    date: "2024-01-11"
+    bank_commission_percent: 1.8
+
+  - currency: "USD"
+    buy_price: 85.90
+    sell_price: 86.65
+    date: "2024-01-10"
+    bank_commission_percent: 1.5
+
+  - currency: "CNY"
+    buy_price: 12.00
+    sell_price: 12.25
+    date: "2024-01-10"
+    bank_commission_percent: 1.8
+
+  - currency: "USD"
+    buy_price: 85.10
+    sell_price: 85.85
+    date: "2024-01-09"
+    bank_commission_percent: 1.5
+
+  - currency: "CNY"
+    buy_price: 11.70
+    sell_price: 11.95
+    date: "2024-01-09"
+    bank_commission_percent: 1.8
+
+  - currency: "USD"
+    buy_price: 86.00
+    sell_price: 86.75
+    date: "2024-01-08"
+    bank_commission_percent: 1.5
+
+  - currency: "CNY"
+    buy_price: 12.05
+    sell_price: 12.30
+    date: "2024-01-08"
+    bank_commission_percent: 1.8
+
+  - currency: "USD"
+    buy_price: 84.95
+    sell_price: 85.70
+    date: "2024-01-07"
+    bank_commission_percent: 1.5
+
+  - currency: "CNY"
+    buy_price: 11.65
+    sell_price: 11.90
+    date: "2024-01-07"
+    bank_commission_percent: 1.8
+
+  - currency: "USD"
+    buy_price: 86.15
+    sell_price: 86.90
+    date: "2024-01-06"
+    bank_commission_percent: 1.5
+
+  - currency: "CNY"
+    buy_price: 12.10
+    sell_price: 12.35
+    date: "2024-01-06"
+    bank_commission_percent: 1.8
